@@ -11,3 +11,5 @@
 5-listfilesdigitonly displays current contents long format, with user and group ID displayed numerically and hidden files.
 
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
+
+7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
