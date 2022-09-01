@@ -22,4 +22,4 @@ Group: no permission at all
 
 Other users: all the permissions.
 
-
+9-John_Doe is a script that gives all permissions to the owner, read and execution permission to the group owner, and write and execution permissions to other users
