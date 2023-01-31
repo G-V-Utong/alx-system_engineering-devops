@@ -1,1 +1,1 @@
-This repository houses all tasks under the second shell project. The project will attempt to explain some shell concepts like what commands do, eg pwd, cd and ls, as well as file manipulation commands likke cp, mv, rm and mkdir
+# Shell: Loops, Conditions, and Parses.
