@@ -1,0 +1,7 @@
+Host Utong
+    HostName 34.234.203.15
+    User ubuntu
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
+    PubkeyAuthentication yes
+
