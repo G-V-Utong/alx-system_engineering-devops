@@ -107,7 +107,4 @@ Accept-Ranges: bytes
 
 ubuntu@03-web-02:~$
 ```
-I use curl to query web-01.holberton.online, and since my firewall is forwarding the ports, I get a HTTP 200 response on port 80/TCP and also on port 8080/TCP.
-
-
-
+I use curl to query web-01.holberton.online, and since my firewall is forwarding the ports, I get a HTTP 200 response on port 80/TCP and also on port 8080/TC
